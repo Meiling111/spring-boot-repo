@@ -1,0 +1,7 @@
+主要内容：
+1.创建一个spring boot的web项目
+2.写spring boot的单元测试
+3.spring boot的异常统一处理
+4.使用Thymeleaf模板输出页面
+5.使用swagger2构建restfull的api文档
+6.spring boot的日志管理
