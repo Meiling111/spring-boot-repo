@@ -16,6 +16,10 @@ public class HelloController {
 		return "这是一个测试。";
 	}
 	
+	public String test2(){
+		return "这是第二次测试，测试代码更新后提交。";
+	}
+	
 	@RequestMapping("/hello")
 	@ResponseBody
 	public String hello(){
